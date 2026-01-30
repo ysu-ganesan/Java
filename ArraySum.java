@@ -16,7 +16,7 @@ public class ArraySum {
         }
         System.out.println(Arrays.toString(arr));
         System.out.println(sum);
-        
+        sc.close();
     }
     
 }
