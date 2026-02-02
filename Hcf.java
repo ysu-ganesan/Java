@@ -22,3 +22,6 @@ public class Hcf {
         System.out.println(a);
     }
 }
+
+
+// test-vaishu
