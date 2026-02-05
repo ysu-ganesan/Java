@@ -1,4 +1,5 @@
 //diamonds
+//test
 public class Diamonds {
 
     public static void main(String args[]) {
