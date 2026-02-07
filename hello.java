@@ -21,3 +21,5 @@ public class hello {
     int a = sc.nextInt();
 
 }
+
+
