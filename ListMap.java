@@ -114,7 +114,7 @@ class topics {
 
 }
 
-public class Main {
+public class ListMap {
 
     public static void TreeSetEg() {
         TreeSet<Integer> tree = new TreeSet<>();
